@@ -1,4 +1,4 @@
-# YouTube Trending Video Analysis 🎥
+# YouTube Trending Video Data Analysis 🎥 (Data Visualisation project)
 
 This mini data analytics project explores *trending YouTube videos* using real-world data to identify what factors make a video go viral.
 
