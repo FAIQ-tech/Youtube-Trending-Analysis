@@ -1,28 +1,40 @@
-# YouTube Trending Video Data Analysis 🎥 (Data Visualisation project)
+# 🎥 YouTube Trending Video Analysis
 
-This mini data analytics project explores *trending YouTube videos* using real-world data to identify what factors make a video go viral.
+This project explores *trending YouTube videos* using real-world data to uncover what factors make a video go viral.  
+It focuses on top categories, engagement metrics, and insights from data visualization.
+
+---
 
 ## 📊 Project Overview
-- *Dataset Source:* Kaggle – Trending YouTube Video Statistics  
-- *Tools Used:* Google Sheets for sorting, filtering, and chart visualization  
-- *Goal:* To analyze top 20 trending videos and understand which categories and metrics (views, likes, comments) drive virality.
+- *Dataset:* Kaggle – Trending YouTube Video Statistics  
+- *Tools Used:* Google Sheets (sorting, filtering, charting)  
+- *Goal:* Identify which categories and engagement metrics (likes/comments/views) drive virality.
 
-## 🔍 Process
-1. Cleaned and organized the dataset in Google Sheets  
-2. Sorted data to identify top-performing videos  
-3. Created a chart visualizing the most trending video categories  
-4. Added insights in the sheet with brief interpretation
+---
 
-## 💡 Insights
-- Music and Entertainment categories dominate the top trends  
-- Videos with higher engagement (likes/comments) trend faster  
-- Visual storytelling and creator consistency are major growth factors
+## 📈 Visualization
+Here’s the visualization created in Google Sheets 👇  
+
+![YouTube Trending Chart](./youtube_chart.png)
+
+(The chart shows which video categories dominate YouTube’s trending list based on engagement.)
+
+---
+
+## 💡 Key Insights
+- 🎶 *Music* and 🎭 *Entertainment* dominate trending sections  
+- 📈 Higher likes & comments → faster trending  
+- 🔁 Consistency and strong thumbnails improve visibility  
+
+---
 
 ## 🧰 Skills Applied
-- Data cleaning & organization  
-- Google Sheets data visualization  
+- Data cleaning & sorting  
+- Spreadsheet visualization  
 - Analytical reasoning  
-- Data interpretation and reporting
+- Data interpretation
+
+---
 
 ## 🔗 About
-This project is part of a practical *Google Data Analytics learning series*, where real datasets are analyzed without formal certification but with hands-on skill application.
+Part of my *Google Data Analytics Project Series*, demonstrating practical, hands-on analysis skills without formal certification.
