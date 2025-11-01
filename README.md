@@ -15,7 +15,7 @@ It focuses on top categories, engagement metrics, and insights from data visuali
 ## 📈 Visualization
 Here’s the visualization created in Google Sheets 👇  
 
-![YouTube Trending Chart](./youtube_chart.png)
+[![YouTube Trending Chart](./youtube_chart.png)](https://github.com/FAIQ-tech/Youtube-Trending-Analysis/blob/main/image.png)
 
 (The chart shows which video categories dominate YouTube’s trending list based on engagement.)
 
