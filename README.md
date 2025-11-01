@@ -1,24 +1,61 @@
-# 🎥 YouTube Trending Video Analysis
+# 🎥 YouTube Data Analysis
 
-This project explores *trending YouTube videos* using real-world data to uncover what factors make a video go viral.  
-It focuses on top categories, engagement metrics, and insights from data visualization.
-
----
-
-## 📊 Project Overview
-- *Dataset:* Kaggle – Trending YouTube Video Statistics  
-- *Tools Used:* Google Sheets (sorting, filtering, charting)  
-- *Goal:* Identify which categories and engagement metrics (likes/comments/views) drive virality.
+This project explores trends and insights from YouTube video data — identifying what makes videos trend, analyzing engagement metrics, and visualizing patterns in audience behavior.  
+It was created as part of my data analytics portfolio to demonstrate skills in **Python**, **data cleaning**, and **visualization**.
 
 ---
 
-## 📈 Visualization
-Here’s the visualization created in Google Sheets 👇  
+## 📂 Dataset
+The dataset contains trending YouTube videos with features like:
+- Video titles and channels  
+- Views, likes, comments, and tags  
+- Publish dates and trending dates  
+- Categories and engagement metrics  
 
-[![YouTube Trending Chart](./youtube_chart.png)](https://github.com/FAIQ-tech/Youtube-Trending-Analysis/blob/main/image.png)
+---
 
-(The chart shows which video categories dominate YouTube’s trending list based on engagement.)
+## 🧠 Objectives
+- Understand which categories and channels trend the most.  
+- Explore relationships between views, likes, and comments.  
+- Visualize engagement rates (likes + comments per view).  
+- Identify top words used in trending video titles.  
+- Observe daily YouTube trends and popularity patterns.  
 
+---
+
+## 🧮 Tools & Libraries
+- **Python**
+- **Pandas**, **NumPy**
+- **Matplotlib**, **Seaborn**
+- **Scikit-learn**
+
+---
+
+## 📊 Visualizations
+Here are some of the visual insights generated in this project:
+- 📺 Top trending channels  
+- 🏷️ Most popular video categories  
+- ❤️ Correlation between views, likes & comments  
+- 📈 Daily video trends and total view growth  
+- 🧩 Word frequency in trending titles  
+
+---
+
+## 🔗 View the Project Code
+👉 [Click here to view the full Python analysis](./youtube_analysis.py)
+
+---
+
+## 🧾 About the Author
+**Muhammad Faiq Hayat**  
+A-level Computer Science & Business student passionate about **data analytics**, **AI**, and **real-world data storytelling**.
+
+---
+
+## ⭐ Highlights
+🧠 Built independently to showcase analytical thinking and technical implementation.  
+📈 Combines both statistical understanding and creativity through visuals.  
+💻 Uploaded to GitHub as part of my U.S. college application data projects.
 ---
 
 ## 💡 Key Insights
