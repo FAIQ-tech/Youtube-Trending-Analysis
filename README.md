@@ -37,7 +37,9 @@ Here are some of the visual insights generated in this project:
 - 🏷️ Most popular video categories  
 - ❤️ Correlation between views, likes & comments  
 - 📈 Daily video trends and total view growth  
-- 🧩 Word frequency in trending titles  
+- 🧩 Word frequency in trending titles
+-  
+<img width="1164" height="281" alt="image" src="https://github.com/user-attachments/assets/4b598be9-55d4-45cd-b529-cf92586d03e3" />
 
 ---
 
